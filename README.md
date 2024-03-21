@@ -1,9 +1,7 @@
-<h1 align="center">2024-1-React-Study</h1>
-<p align="center">[APPS] 2024-1 'React' 스터디 저장소🖥️</p>
-
 ### Sookmyung APPS
+<h1 align="center">2024-1-Java-Study</h1>
+<p align="center">[APPS] 2024-1 'Java' 스터디 저장소🖥️</p>
 
-# 2024-1 Java Study
 
 </div>
 <br>
